@@ -33,12 +33,6 @@
 
 ---
 
-#### 🧑‍🎨 [mandinu-portfolio](https://github.com/mandinumaneth/mandinu-portfolio)
-> Personal portfolio website showcasing projects, skills, and contact info.  
-> _Built with: Next.js + Tailwind CSS + TypeScript + Framer Motion_
-
----
-
 #### 🏠 [HomeGenie](https://github.com/shashithucsc/Homegenie)
 > Smart Home system with local device control, plugins, scheduling, and access management.  
 > _PHP + CSS + JavaScript_
