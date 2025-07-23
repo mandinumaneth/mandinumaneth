@@ -20,7 +20,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,tailwind,nodejs,laravel,php,java,c,r,postgres,mysql,mongodb,git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,php,java,c,ts,tailwind,postgres,mysql,mongodb,docker" />
 </p>
 
 ---
@@ -57,25 +57,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandinumaneth&show_icons=true&theme=tokyonight&border_radius=12" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandinumaneth&layout=compact&theme=tokyonight&border_radius=12" height="160"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mandinumaneth&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mandinumaneth/" target="_blank">
-    <img sr
+  <a href="https://www.linkedin.com/in/mandinu-maneth-176074356" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
