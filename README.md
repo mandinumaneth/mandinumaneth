@@ -34,9 +34,9 @@
 
 ---
 
-#### 🏠 [HomeGenie](https://github.com/shashithucsc/Homegenie)
+#### 🏠 [HomeGenie (Ongoing)](https://github.com/shashithucsc/Homegenie)
 > Smart Home system with local device control, plugins, scheduling, and access management.  
-> _Node.js + Express + MongoDB + MQTT + React_
+> _PHP + CSS + JavaScript_
 
 ---
 
