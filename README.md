@@ -12,19 +12,68 @@
 
 - 🎓 3rd Year IS Undergraduate at **University of Colombo School of Computing (UCSC)**
 - 🔭 Currently working on: **University Gateway Solution project**
-- 🌱 Learning: React (Vite), Laravel, PostgreSQL, DevOps
-- 💬 Passionate about solving real-world problems with tech
-- 📬 Email: [mandinumaneth@gmail.com](mailto:mandinumaneth@gmail.com)
+- 💡 Passionate about building real-world, scalable, and beautiful software
+- 📬 Email: [wamandinumaneth@gmail.com](mailto:wamandinumaneth@gmail.com)
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack Expertise
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,laravel,php,postgres,mongodb,git,docker,vscode" />
-</p>
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,tailwind,shadcn,framer,gsap,threejs" /><br>
+
+- **React (with Vite and TypeScript)**
+- **Next.js** – SSR/SSG React Framework
+- **Tailwind CSS**, **shadcn/ui**
+- **Framer Motion**, **GSAP** – Animation Libraries
+- **Three.js** – 3D Graphics in the Browser
 
 ---
+
+#### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,php" /><br>
+
+- **Laravel (PHP Framework)**
+- **Node.js + Express.js** – Backend for MERN/PERN
+- **REST APIs**, **JWT Authentication**
+- **WebSockets / Socket.IO**
+
+---
+
+#### 🔄 Full Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,postgres" /><br>
+
+- **MERN Stack** – MongoDB, Express, React, Node.js
+- **PERN Stack** – PostgreSQL, Express, React, Node.js
+
+---
+
+#### 🗃️ Database
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+---
+
+#### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,composer,npm,yarn" /><br>
+
+- Git / GitHub
+- Docker
+- VS Code, Composer, npm, yarn
+- Mailtrap (Email Testing)
+
+---
+
+#### 🧩 Other Tools & Practices
+- Agile / Scrum
+- PHP Mailer / Symfony Mailer
+
+---
+
 
 ### 🚀 Featured Projects
 
@@ -34,9 +83,9 @@
 
 ---
 
-#### 🏠 [HomeGenie (Ongoing)](https://github.com/shashithucsc/Homegenie)
+#### 🏠 [HomeGenie](https://github.com/shashithucsc/Homegenie)
 > Smart Home system with local device control, plugins, scheduling, and access management.  
-> _PHP + CSS + JavaScript_
+> _PHP (71.8%) + CSS (25.2%) + JavaScript (1.6%)_
 
 ---
 
@@ -89,4 +138,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I love turning ideas into clean UIs and scalable systems — whether it's React, Laravel, or plain Java!
+> I enjoy turning ideas into clean UIs and scalable systems — whether it's React, Laravel, or plain Java!
