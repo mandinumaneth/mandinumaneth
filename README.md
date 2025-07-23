@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mandinu+Maneth;Full-Stack+Developer+%7C+UCSC+Undergraduate;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mandinu+Maneth;IS+Undergraduate+at+UCSC" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105813175/234852778-5b77790d-e3c1-4d21-a12a-7a2cd4d1a8a0.gif" height="160" />
@@ -8,34 +9,53 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 3rd Year CS Undergraduate at **University of Colombo School of Computing (UCSC)**
-- 🚀 Currently building: `UCSC University Gateway`, `Mavisi Curtains`
-- 🌱 Learning: React, Laravel, Microservices, PostgreSQL, DevOps
-- 💡 Focused on building modern UIs & scalable backend services
-- 📬 Reach me: [mandinumaneth@gmail.com](mailto:mandinumaneth@gmail.com)
+- 🎓 3rd Year IS Undergraduate at **University of Colombo School of Computing (UCSC)**
+- 🔭 Currently working on: `University Gateway`, `HomeGenie`
+- 🌱 Learning: React (Vite), Laravel, PostgreSQL, DevOps
+- 💬 Passionate about solving real-world problems with tech
+- 📬 Email: [mandinumaneth@gmail.com](mailto:mandinumaneth@gmail.com)
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,laravel,php,postgres,mongodb,docker,git,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,laravel,php,postgres,mongodb,git,docker,vscode" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔷 [UCSC University Gateway](https://github.com/mandinumaneth/ugs-frontend) | Full-stack platform for exam registration, results, finance & notifications | React + Laravel + PostgreSQL |
-| 🧾 [Mavisi Curtains Estimator](https://github.com/mandinumaneth/mavisi) | Business website to estimate curtain prices with clean UI | React + Tailwind + Firebase |
-| 📝 [Notes App - Microservices](https://github.com/mandinumaneth/notes-app) | MERN stack app with microservice-based structure and real-time sync | React + Node.js + MongoDB |
-| 🏠 [HomeGenie](https://github.com/mandinumaneth/homegenie) | Smart home controller over local network with device modules | Node.js + MQTT + React |
-| 💼 [Digital Contact Book](https://github.com/mandinumaneth/contact-book) | CRUD contact manager with search & responsive layout | MERN Stack |
-| 💸 [Finance Tracker](https://github.com/mandinumaneth/finance-tracker) | Track income & expenses with filters and charts | React + Chart.js |
+#### 🎓 [UCSC University Gateway](https://github.com/ucsc-ugs)
+> Full-stack university portal for exam registration, results, finance dashboards & announcements.  
+> _React (Vite) + Tailwind CSS + Laravel + Sanctum + PostgreSQL_
+
+---
+
+#### 🏠 [HomeGenie (Ongoing)](https://github.com/shashithucsc/Homegenie)
+> Smart Home system with local device control, plugins, scheduling, and access management.  
+> _Node.js + Express + MongoDB + MQTT + React_
+
+---
+
+#### 🎬 [React Movie Search App](https://github.com/mandinumaneth/React-Movie-search)
+> A movie search app using TMDB API with real-time search results and UI animations.  
+> _React + TMDB API + CSS Modules_
+
+---
+
+#### 🚖 [Cab Rental System](https://github.com/madarameegama7/Cab-Rental)
+> Group project for a complete vehicle rental service system including booking and admin panel.  
+> _PHP + MySQL + Bootstrap_
+
+---
+
+#### 📡 [Middleware Pub/Sub System](https://github.com/binuralk/middleware-pubsub)
+> A Java-based publish-subscribe architecture for message delivery using topics.  
+> _Java + Sockets + Multithreading_
 
 ---
 
@@ -70,4 +90,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I love turning complex problems into beautiful UIs and fast backends. Clean code is my happy place.
+> I love turning ideas into clean UIs and scalable systems—whether it's React, Laravel, or plain Java!
