@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mandinu+Maneth;IS+Undergraduate+at+UCSC" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105813175/234852778-5b77790d-e3c1-4d21-a12a-7a2cd4d1a8a0.gif" height="160" />
 </p>
@@ -12,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd Year IS Undergraduate at **University of Colombo School of Computing (UCSC)**
-- 🔭 Currently working on: `University Gateway`, `HomeGenie`
+- 🔭 Currently working on: **University Gateway Solution project**
 - 🌱 Learning: React (Vite), Laravel, PostgreSQL, DevOps
 - 💬 Passionate about solving real-world problems with tech
 - 📬 Email: [mandinumaneth@gmail.com](mailto:mandinumaneth@gmail.com)
@@ -29,13 +28,13 @@
 
 ### 🚀 Featured Projects
 
-#### 🎓 [UCSC University Gateway](https://github.com/ucsc-ugs)
+#### 🎓 [UCSC University Gateway - (Ongoing)](https://github.com/ucsc-ugs)
 > Full-stack university portal for exam registration, results, finance dashboards & announcements.  
 > _React (Vite) + Tailwind CSS + Laravel + Sanctum + PostgreSQL_
 
 ---
 
-#### 🏠 [HomeGenie (Ongoing)](https://github.com/shashithucsc/Homegenie)
+#### 🏠 [HomeGenie](https://github.com/shashithucsc/Homegenie)
 > Smart Home system with local device control, plugins, scheduling, and access management.  
 > _Node.js + Express + MongoDB + MQTT + React_
 
@@ -90,4 +89,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I love turning ideas into clean UIs and scalable systems—whether it's React, Laravel, or plain Java!
+> I love turning ideas into clean UIs and scalable systems — whether it's React, Laravel, or plain Java!
