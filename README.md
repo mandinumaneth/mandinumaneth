@@ -74,7 +74,7 @@
 
 ---
 
-#### 🚀 [React CI/CD Demo](https://github.com/mandinumaneth/react-cicd-demo) 
+#### 🚀 [React CI/CD Demo](https://github.com/mandinumaneth/reactcicd) 
 > Simple React project demonstrating CI/CD pipeline using GitHub Actions and deployment to GitHub Pages. Features automated build, test, and deployment workflow.  
 > **Tech Stack:** React • GitHub Actions • GitHub Pages
 
