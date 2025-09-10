@@ -72,15 +72,11 @@
 > Full-stack note-taking application with REST API, rate limiting, and responsive UI. Supports CRUD operations for notes with title and description.  
 > **Tech Stack:** MongoDB • Express.js • React • Node.js • Redis • Tailwind CSS
 
+---
+
 #### 🚀 [React CI/CD Demo](https://github.com/mandinumaneth/react-cicd-demo) 
 > Simple React project demonstrating CI/CD pipeline using GitHub Actions and deployment to GitHub Pages. Features automated build, test, and deployment workflow.  
 > **Tech Stack:** React • GitHub Actions • GitHub Pages
-
----
-
-#### 💼 [Personal Portfolio Website](https://github.com/mandinumaneth/portfolio)
-> Responsive portfolio website featuring 3D animations and interactive UI elements. Showcases projects, skills, and professional experience with modern design.  
-> **Tech Stack:** Next.js • TypeScript • Tailwind CSS • Three.js • Vercel
 
 ---
 
