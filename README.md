@@ -19,17 +19,14 @@
 
 ### ⚙️ Tech Stack
 
-**Languages:**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,c,sql" />
 </p>
 
-**Frameworks & Libraries:**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,spring" />
 </p>
 
-**Databases & Tools:**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,tailwind,redis,rabbitmq" />
 </p>
