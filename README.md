@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mandinu+Maneth;IS+Undergraduate+at+UCSC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mandinu+Maneth;IS+Undergraduate+at+UCSC;Software+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,59 +9,84 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🎓 3rd Year IS Undergraduate at **University of Colombo School of Computing (UCSC)**
-- 🔭 Currently working on: **University Gateway Solution project**
-- 💡 Passionate about building real-world, scalable software
+- 🎓 Information Systems Undergraduate at **University of Colombo School of Computing (UCSC)**
+- 💡 Passionate about **Software Engineering**
+- 🌐 Enthusiast in **Full-Stack Development**  
 - 📬 Email: [wamandinumaneth@gmail.com](mailto:wamandinumaneth@gmail.com)
+- 🔗 LinkedIn: [Mandinu Maneth](https://www.linkedin.com/in/mandinu-maneth-176074356/)
 
 ---
 
 ### ⚙️ Tech Stack
 
+**Languages:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,php,java,c,ts,tailwind,postgres,mysql,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,c,sql" />
+</p>
+
+**Frameworks & Libraries:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,spring" />
+</p>
+
+**Databases & Tools:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,tailwind,redis,rabbitmq" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎓 [UCSC University Gateway - (Ongoing)](https://github.com/ucsc-ugs)
-> Full-stack university portal for exam registration, results, finance dashboards & announcements.  
-> _Built with: Laravel + React (Vite) + PostgreSQL + Tailwind CSS_
+#### 🎓 [UCSC University Gateway Solutions](https://github.com/ucsc-ugs) 
+> Comprehensive university management system streamlining academic processes including exam registration, result management, financial dashboards, and real-time notifications.  
+> **Tech Stack:** Laravel • React (Vite) • PostgreSQL • Tailwind CSS • PHP
 
 ---
 
-#### 🏠 [HomeGenie](https://github.com/shashithucsc/Homegenie)
-> Smart Home system with local device control, plugins, scheduling, and access management.  
-> _PHP + CSS + JavaScript_
+#### 🚛 [SwiftLogistics - Middleware Architecture](https://github.com/MalinEkanayake31/SwiftLogistics) 
+> Microservices-based middleware integrating CMS, ROS, and WMS systems into a unified logistics platform, handling 1000+ daily orders with automated routing and warehouse tracking.  
+> **Tech Stack:** Node.js • Express.js • Docker • MongoDB • Redis • RabbitMQ
 
 ---
 
-#### 🎬 [React Movie Search App](https://github.com/mandinumaneth/React-Movie-search)
-> A movie search app using TMDB API with real-time search results and UI animations.  
-> _React + TMDB API + CSS Modules_
+#### 🤖 [IntelliFit - AI Activity Tracking](https://github.com/mandinumaneth/intellifit-fitness-track)
+> Full-stack activity tracking platform with AI-powered personalized health recommendations. Features microservices architecture, secure OAuth2 authentication, and asynchronous messaging.  
+> **Tech Stack:** Spring Boot • React (Material UI) • MongoDB • PostgreSQL • Keycloak • RabbitMQ • Gemini API
 
 ---
 
-#### 🚖 [Cab Rental System](https://github.com/madarameegama7/Cab-Rental)
-> Group project for a complete vehicle rental service system including booking and admin panel.  
-> _PHP + MySQL + Bootstrap_
+#### 🏠 [HomeGenie - Home Services Platform](https://github.com/shashithucsc/Homegenie)
+> Centralized web platform simplifying home service booking and supplier management with role-based access for customers, service providers, suppliers, and admins.  
+> **Tech Stack:** PHP • MySQL • HTML5 • CSS • JavaScript
 
 ---
 
-#### 📡 [Middleware Pub/Sub System](https://github.com/binuralk/middleware-pubsub)
-> A Java-based publish-subscribe architecture for message delivery using topics.  
-> _Java + Sockets + Multithreading_
+#### 🎬 [Movie Explorer with CI/CD](https://github.com/mandinumaneth/React-Movie-search) 
+> React application for movie search using TMDB API. Demonstrates advanced CI/CD implementation with GitHub Actions and automated deployment to Netlify.  
+> **Tech Stack:** React • TMDB API • GitHub Actions • Netlify
 
 ---
 
-### 🌐 Let's Connect
+#### 📝 [ThinkBoard - MERN Note Taking App](https://github.com/mandinumaneth/MERNthinkboard)
+> Full-stack note-taking application with REST API, rate limiting, and responsive UI. Supports CRUD operations for notes with title and description.  
+> **Tech Stack:** MongoDB • Express.js • React • Node.js • Redis • Tailwind CSS
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mandinu-maneth-176074356" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+#### 🚀 [React CI/CD Demo](https://github.com/mandinumaneth/react-cicd-demo) 
+> Simple React project demonstrating CI/CD pipeline using GitHub Actions and deployment to GitHub Pages. Features automated build, test, and deployment workflow.  
+> **Tech Stack:** React • GitHub Actions • GitHub Pages
 
+---
+
+#### 💼 [Personal Portfolio Website](https://github.com/mandinumaneth/portfolio)
+> Responsive portfolio website featuring 3D animations and interactive UI elements. Showcases projects, skills, and professional experience with modern design.  
+> **Tech Stack:** Next.js • TypeScript • Tailwind CSS • Three.js • Vercel
+
+---
+
+#### 📡 [Middleware Pub/Sub System](https://github.com/mandinumaneth/middleware-pubsub)
+> Topic-based publish-subscribe middleware system implementing message delivery using Java sockets and multithreading for concurrent client handling.  
+> **Tech Stack:** Java • Sockets • Multithreading
+
+
+---
