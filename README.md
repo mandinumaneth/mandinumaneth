@@ -80,7 +80,7 @@
 
 ---
 
-#### 📡 [Middleware Pub/Sub System](https://github.com/mandinumaneth/middleware-pubsub)
+#### 📡 [Middleware Pub/Sub System](https://github.com/binuralk/middleware-pubsub)
 > Topic-based publish-subscribe middleware system implementing message delivery using Java sockets and multithreading for concurrent client handling.  
 > **Tech Stack:** Java • Sockets • Multithreading
 
