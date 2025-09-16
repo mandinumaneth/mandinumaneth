@@ -83,6 +83,11 @@
 
 ---
 
+#### [MyApp - .NET MVC](https://github.com/mandinumaneth/MyApp-NET-MVC)
+> Full-stack learning project demonstrating ASP.NET Core MVC with Entity Framework Core (SQL Server). Features CRUD operations, Razor views, and examples of one-to-one, one-to-many, and many-to-many relationships.  
+> **Tech Stack:** ASP.NET Core MVC • C# • Entity Framework Core • SQL Server • Razor
+---
+
 
 ####  [Middleware Pub/Sub System](https://github.com/binuralk/middleware-pubsub)
 > Topic-based publish-subscribe middleware system implementing message delivery using Java sockets and multithreading for concurrent client handling.  
