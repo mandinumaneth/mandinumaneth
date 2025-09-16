@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,c,sql" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,c,dotnet" />
 </p>
 
 <p align="center">
@@ -26,8 +26,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,tailwind,redis,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,git,tailwind,redis,rabbitmq" />
 </p>
+
+
 
 ---
 
@@ -74,6 +76,13 @@
 > **Tech Stack:** React • GitHub Actions • GitHub Pages
 
 ---
+
+#### [GameStore - .NET](https://github.com/mandinumaneth/game-store-NET)
+> Full-stack web application for managing a collection of video games. Backend built with ASP.NET Core Web API and Entity Framework Core (SQLite) providing RESTful CRUD endpoints. Frontend built with React (Vite).  
+> **Tech Stack:** ASP.NET Core • C# • Entity Framework Core • SQLite • React • Tailwind CSS  
+
+---
+
 
 ####  [Middleware Pub/Sub System](https://github.com/binuralk/middleware-pubsub)
 > Topic-based publish-subscribe middleware system implementing message delivery using Java sockets and multithreading for concurrent client handling.  
